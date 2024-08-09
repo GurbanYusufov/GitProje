@@ -9,5 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Deneme")
+
+        for(i in 1..5){
+            println(i)
+        }
     }
 }
