@@ -13,5 +13,9 @@ class MainActivity : AppCompatActivity() {
         for(i in 1..5){
             println(i)
         }
+
+        for(i in 1..10){
+            println(i)
+        }
     }
 }
